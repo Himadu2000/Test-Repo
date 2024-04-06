@@ -14,6 +14,19 @@ fn main() {
 
 $$\int_0^{+\infty}\dfrac{\sin(t)}{t}\,dt=\dfrac{\sqrt{\pi}}{2}$$
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+I need to highlight these ==very important words==. 
+
+H~2~O
+
+X^2^
+
+term
+: definition 
+
 
 ## Links and images
 ![](https://raw.githubusercontent.com/wooorm/markdown-rs/8924580/media/logo-monochromatic.svg?sanitize=true)
