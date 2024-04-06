@@ -1,4 +1,9 @@
+<a href="tel:1111111">Call Me!</a>
 
+
+
+[cass](tel:+05890000111)
+<a href="tel:555-555-5555">555-555-5555</a>
 ## Code
 ```rust
 fn main() {
